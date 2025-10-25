@@ -1,0 +1,33 @@
+
+Last Updated: 10/25/2025
+1. Information We Collect
+HyperShape does not collect, store, or share any personal information such as your IP address, device identifiers, or other data that can identify you—except for optional in-app features that require user input.
+The game may collect aggregated gameplay data (e.g., which shapes are tapped or matched) to improve app functionality and user experience. This data is anonymized and not linked to any individual user.
+2. Optional Data Collection
+If you choose to participate in competitions or leaderboards, certain information may be collected to support these features:
+Username or display name (for leaderboard display)
+Score or achievement data
+This information is stored securely and used only for the purpose of displaying rankings or awarding prizes. It is never sold or shared outside of what is necessary for the feature.
+3. Use of Third-Party Services
+Some features of HyperShape may utilize third-party services (e.g., Game Center, analytics, or cloud services). These services may collect anonymized or aggregated data as part of their operations.
+HyperShape does not share personally identifiable information with these third parties.
+We recommend reviewing the privacy policies of any third-party services used.
+4. How We Use Your Information
+Aggregated gameplay data: To improve gameplay, difficulty scaling, and user experience.
+Leaderboard or competition data: To verify entries, award prizes, and display rankings.
+No other personal information is processed or shared.
+5. Data Retention
+Aggregated gameplay data is stored in anonymized form and retained only for app improvement purposes.
+Leaderboard or competition data is retained only as long as necessary to display rankings, award prizes, or comply with legal obligations.
+6. Children’s Privacy
+HyperShape is intended for users aged 13 and up.
+We do not knowingly collect personal information from children under 13. Users under 18 should obtain parental consent before using features like leaderboards or competitions.
+7. Your Choices and Controls
+You can disable permissions (e.g., Game Center access) in your device settings.
+You may request deletion of competition or leaderboard data by contacting us at: FreeFlyMaps@gmail.com
+8. Security
+We maintain best practices to secure aggregated gameplay data and optional leaderboard/competition data, including encryption and restricted access.
+9. Changes to This Privacy Policy
+We may update this policy to reflect changes in app features, data handling, or legal requirements. Updates will be posted here with a new “Last Updated” date.
+10. Contact Us
+If you have any questions or concerns about this Privacy Policy, contact:FreeFlyMaps@gmail.com
